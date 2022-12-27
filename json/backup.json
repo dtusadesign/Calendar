@@ -1,0 +1,26 @@
+[ 
+ {
+   "id": 1,
+   "eventText": "Christmas Eve",
+   "eventDate": 24112022,
+   "eventEnd": 24112022
+ },
+ {
+   "id": 2,
+   "eventText": "Christmas",
+   "eventDate": 25112022,
+   "eventEnd": 25112022
+ }, 
+ {
+   "id": 3,
+   "eventText": "New Years Eve",
+   "eventDate": 31112022,
+   "eventEnd": 31112022
+ }, 
+ {
+   "id": 4,
+   "eventText": "New Years Day",
+   "eventDate": 102023,
+   "eventEnd": 102023
+ }
+   ]
